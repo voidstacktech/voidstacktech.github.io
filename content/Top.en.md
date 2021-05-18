@@ -1,6 +1,6 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
+header: "VOIDSTACK"
+subheader: "A head-start to your start-up"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Tell Me More"
